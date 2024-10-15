@@ -13,7 +13,7 @@ header('Content-Type: text/html; charset=iso-8859-1');
 
 echo 'Versao Atual do PHP: ' . phpversion() . '<br>';
 
-$servername = "docker1";
+$servername = "192.168.198.128";
 $username = "root";
 $password = "Senha123";
 $database = "meubanco";
